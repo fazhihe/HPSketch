@@ -1,5 +1,9 @@
 # HPSketch
 
+This repository provides source data for our paper:
+
+[A History-based parametric CAD sketch dataset with advanced engineering commands](https://www.sciencedirect.com/science/article/abs/pii/S0010448525000107)
+
 HPSketch is the first history-based parametric CAD sketch dataset to support advanced engineering commands.
 
 A gallery of HPSketch dataset is shown above.

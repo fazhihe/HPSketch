@@ -10,6 +10,7 @@ The vector format of HPSketch is in the folder of ./data.
 
 The citation of this article is as follows:
 
+\```
 @article{ WOS:001417104500001,
 Author = {Fan, Rubin and He, Fazhi and Liu, Yuxin and Lin, Jing},
 Title = {A history-based parametric CAD sketch dataset with advanced engineering
@@ -26,3 +27,4 @@ EISSN = {1879-2685},
 ResearcherID-Numbers = {LIU, Yuxin/LFT-9571-2024},
 Unique-ID = {WOS:001417104500001},
 }
+\```
